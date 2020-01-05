@@ -1,0 +1,15 @@
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\bin\Release\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\bin\Release\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\bin\Release\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.Mvc.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\bin\Release\EntityFramework.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\bin\Release\EP.CrudModalDDD.Infra.CrossCutting.Logging.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\bin\Release\System.Web.Mvc.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\bin\Release\EntityFramework.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\bin\Release\Microsoft.Web.Infrastructure.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\obj\Release\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.csprojResolveAssemblyReference.cache
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\obj\Release\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\obj\Release\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.pdb

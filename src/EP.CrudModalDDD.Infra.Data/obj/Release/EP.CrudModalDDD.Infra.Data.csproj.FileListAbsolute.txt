@@ -1,0 +1,16 @@
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.Data\bin\Release\EP.CrudModalDDD.Infra.Data.dll.config
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.Data\bin\Release\EP.CrudModalDDD.Infra.Data.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.Data\bin\Release\EP.CrudModalDDD.Infra.Data.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.Data\bin\Release\Dapper.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.Data\bin\Release\DomainValidation.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.Data\bin\Release\EntityFramework.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.Data\bin\Release\EP.CrudModalDDD.Domain.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.Data\bin\Release\EP.CrudModalDDD.Domain.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.Data\bin\Release\Dapper.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.Data\bin\Release\Dapper.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.Data\bin\Release\EntityFramework.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.Data\obj\Release\EP.CrudModalDDD.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.Data\obj\Release\EP.CrudModalDDD.Infra.Data.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.Data\obj\Release\EP.CrudModalDDD.Infra.Data.pdb

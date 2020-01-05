@@ -1,0 +1,135 @@
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Application.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Domain.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.Data.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.Integration.Web.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\DomainValidation.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\AutoMapper.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\System.Web.Mvc.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Dapper.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Application.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Domain.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.Data.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.Integration.Web.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\AutoMapper.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\System.Web.Mvc.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Dapper.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Dapper.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.csprojResolveAssemblyReference.cache
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.pdb
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.pdb
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Application.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Domain.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.Data.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.Integration.Web.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\DomainValidation.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\AutoMapper.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\System.Web.Mvc.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Dapper.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Application.pdb
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Domain.pdb
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.pdb
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.Data.pdb
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.Integration.Web.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\AutoMapper.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\System.Web.Mvc.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Dapper.pdb
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Dapper.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.csprojResolveAssemblyReference.cache
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.pdb
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.pdb
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Application.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Domain.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.Data.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.Integration.Web.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\DomainValidation.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\AutoMapper.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\System.Web.Mvc.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Dapper.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Application.pdb
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Domain.pdb
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.pdb
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll.config
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.Data.pdb
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.Data.dll.config
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.xml
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.xml
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.Integration.Web.xml
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\AutoMapper.xml
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\System.Web.Mvc.xml
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Dapper.pdb
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Dapper.xml
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.pdb
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.pdb
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Application.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Domain.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.Data.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.Integration.Web.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\DomainValidation.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\AutoMapper.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\System.Web.Mvc.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Dapper.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Application.pdb
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Domain.pdb
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.pdb
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll.config
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.Data.pdb
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.Data.dll.config
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.Integration.Web.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\AutoMapper.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\System.Web.Mvc.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Dapper.pdb
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\bin\Debug\Dapper.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.IoC\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.IoC.pdb

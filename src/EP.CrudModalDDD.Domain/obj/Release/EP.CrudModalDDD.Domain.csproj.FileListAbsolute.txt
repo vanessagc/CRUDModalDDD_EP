@@ -1,0 +1,6 @@
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Domain\bin\Release\EP.CrudModalDDD.Domain.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Domain\bin\Release\EP.CrudModalDDD.Domain.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Domain\bin\Release\DomainValidation.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Domain\obj\Release\EP.CrudModalDDD.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Domain\obj\Release\EP.CrudModalDDD.Domain.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Domain\obj\Release\EP.CrudModalDDD.Domain.pdb

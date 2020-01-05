@@ -1,0 +1,25 @@
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Domain\bin\Debug\EP.CrudModalDDD.Domain.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Domain\bin\Debug\EP.CrudModalDDD.Domain.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Domain\bin\Debug\DomainValidation.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Domain\obj\Debug\EP.CrudModalDDD.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Domain\obj\Debug\EP.CrudModalDDD.Domain.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Domain\obj\Debug\EP.CrudModalDDD.Domain.pdb
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Domain\bin\Debug\EP.CrudModalDDD.Domain.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Domain\bin\Debug\EP.CrudModalDDD.Domain.pdb
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Domain\bin\Debug\DomainValidation.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Domain\obj\Debug\EP.CrudModalDDD.Domain.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Domain\obj\Debug\EP.CrudModalDDD.Domain.pdb
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Domain\bin\Debug\EP.CrudModalDDD.Domain.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Domain\bin\Debug\EP.CrudModalDDD.Domain.pdb
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Domain\bin\Debug\DomainValidation.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Domain\obj\Debug\EP.CrudModalDDD.Domain.csprojAssemblyReference.cache
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Domain\obj\Debug\EP.CrudModalDDD.Domain.csproj.CopyComplete
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Domain\obj\Debug\EP.CrudModalDDD.Domain.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Domain\obj\Debug\EP.CrudModalDDD.Domain.pdb
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Domain\bin\Debug\EP.CrudModalDDD.Domain.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Domain\bin\Debug\EP.CrudModalDDD.Domain.pdb
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Domain\bin\Debug\DomainValidation.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Domain\obj\Debug\EP.CrudModalDDD.Domain.csprojAssemblyReference.cache
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Domain\obj\Debug\EP.CrudModalDDD.Domain.csproj.CopyComplete
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Domain\obj\Debug\EP.CrudModalDDD.Domain.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Domain\obj\Debug\EP.CrudModalDDD.Domain.pdb

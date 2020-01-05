@@ -1,0 +1,141 @@
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Services.REST.ClienteAPI.dll.config
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Services.REST.ClienteAPI.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Services.REST.ClienteAPI.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Application.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Domain.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.CrossCutting.IoC.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Newtonsoft.Json.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\SimpleInjector.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\SimpleInjector.Extensions.ExecutionContextScoping.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Web.Http.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\WebActivator.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.Data.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\DomainValidation.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\AutoMapper.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Dapper.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EntityFramework.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Web.Mvc.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Application.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Domain.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.CrossCutting.IoC.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\SimpleInjector.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\SimpleInjector.Extensions.ExecutionContextScoping.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Newtonsoft.Json.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Web.Http.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.Data.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\AutoMapper.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.CrossCutting.Logging.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Dapper.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Dapper.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EntityFramework.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Web.Mvc.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\obj\Debug\EP.CrudModalDDD.Services.REST.ClienteAPI.csprojResolveAssemblyReference.cache
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\obj\Debug\EP.CrudModalDDD.Services.REST.ClienteAPI.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\obj\Debug\EP.CrudModalDDD.Services.REST.ClienteAPI.pdb
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Services.REST.ClienteAPI.dll.config
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Services.REST.ClienteAPI.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Services.REST.ClienteAPI.pdb
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Application.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Domain.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.CrossCutting.IoC.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Newtonsoft.Json.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\SimpleInjector.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\SimpleInjector.Extensions.ExecutionContextScoping.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Web.Http.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\WebActivator.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.Data.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\DomainValidation.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\AutoMapper.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Dapper.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EntityFramework.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Web.Mvc.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Application.pdb
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Domain.pdb
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.CrossCutting.IoC.pdb
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\SimpleInjector.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\SimpleInjector.Extensions.ExecutionContextScoping.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Newtonsoft.Json.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Web.Http.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.Data.pdb
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\AutoMapper.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.CrossCutting.Logging.pdb
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Dapper.pdb
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Dapper.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EntityFramework.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Web.Mvc.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\obj\Debug\EP.CrudModalDDD.Services.REST.ClienteAPI.csprojResolveAssemblyReference.cache
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\obj\Debug\EP.CrudModalDDD.Services.REST.ClienteAPI.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Services.REST.ClienteAPI\obj\Debug\EP.CrudModalDDD.Services.REST.ClienteAPI.pdb
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Services.REST.ClienteAPI.dll.config
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Services.REST.ClienteAPI.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Services.REST.ClienteAPI.pdb
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Application.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Domain.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.CrossCutting.IoC.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Newtonsoft.Json.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\SimpleInjector.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\SimpleInjector.Extensions.ExecutionContextScoping.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Web.Http.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\WebActivator.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.Data.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\DomainValidation.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\AutoMapper.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Dapper.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EntityFramework.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Web.Mvc.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Application.pdb
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Domain.pdb
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.CrossCutting.IoC.pdb
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\SimpleInjector.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\SimpleInjector.Extensions.ExecutionContextScoping.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Newtonsoft.Json.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Web.Http.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.Data.pdb
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.Data.dll.config
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.pdb
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\AutoMapper.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.CrossCutting.Logging.pdb
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll.config
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Dapper.pdb
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Dapper.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\EntityFramework.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\System.Web.Mvc.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\obj\Debug\EP.CrudModalDDD.Services.REST.ClienteAPI.csprojAssemblyReference.cache
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\obj\Debug\EP.CrudModalDDD.Services.REST.ClienteAPI.csproj.CopyComplete
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\obj\Debug\EP.CrudModalDDD.Services.REST.ClienteAPI.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Services.REST.ClienteAPI\obj\Debug\EP.CrudModalDDD.Services.REST.ClienteAPI.pdb

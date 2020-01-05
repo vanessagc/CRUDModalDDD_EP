@@ -1,0 +1,66 @@
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll.config
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.pdb
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EntityFramework.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\System.Web.Mvc.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EntityFramework.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\System.Web.Mvc.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.csprojResolveAssemblyReference.cache
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll
+C:\Users\Vanessa\Documents\Vanessa Documentos\_Curso MVC - Eduardo Pires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.pdb
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll.config
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.pdb
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EntityFramework.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\System.Web.Mvc.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EntityFramework.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\System.Web.Mvc.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.csprojResolveAssemblyReference.cache
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll
+C:\Users\Vanessa\Documents\_Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.pdb
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll.config
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.pdb
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EntityFramework.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\System.Web.Mvc.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EntityFramework.xml
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\System.Web.Mvc.xml
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.csprojAssemblyReference.cache
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.csproj.CopyComplete
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll
+C:\Users\Vanessa\Documents\Curso Eduardo Pires\1 - MCV\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.pdb
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll.config
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.pdb
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EntityFramework.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\System.Web.Mvc.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EntityFramework.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\System.Web.Mvc.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.csprojAssemblyReference.cache
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.csproj.CopyComplete
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.dll
+C:\Users\Vanessa\Documents\CRUDModalDDD_EP\src\EP.CrudModalDDD.Infra.CrossCutting.Logging\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.Logging.pdb
